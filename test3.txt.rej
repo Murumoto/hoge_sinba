@@ -1,0 +1,7 @@
+diff a/test3.txt b/test3.txt	(rejected hunks)
+@@ -0,2 +0 @@
+-テストです（大野）
+-同時テスト（大野）
+\ No newline at end of file
++テストです（大野）
+\ No newline at end of file
